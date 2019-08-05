@@ -1,2 +1,5 @@
 # hello-world
-apenas mais um repositorio
+
+Danilo Nunes
+Desenvolvedor PHP|Python
+Tentando ajudar a criar um  mundo melhor
